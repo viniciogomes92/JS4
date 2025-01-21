@@ -3,11 +3,12 @@ let nameInput = document.getElementById('friend');
 let friendsList = document.getElementById('friendsList');
 let result = document.getElementById('result');
 let erro = document.getElementById('error');
+const nomeRegex = /^[A-Za-zÀ-ÖØ-öø-ÿ'´`^~]+(?: [A-Za-zÀ-ÖØ-öø-ÿ'´`^~]+)*$/;
 
 function addFriend () {
   clearError();
   
-  if (!nameInput.value == '') {
+  if (!nameInput.value == '' && !friends.includes(nameInput.value) && !nomeRegex.test(nameInput.value)) {
     friends.push(nameInput.value);
     listFriends();
     clearInput();
