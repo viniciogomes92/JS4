@@ -7,10 +7,15 @@ const nomeRegex = /^[A-Za-zÀ-ÖØ-öø-ÿ'´`^~]+(?: [A-Za-zÀ-ÖØ-öø-ÿ'´`
 
 function addFriend () {
   clearError();
-  
-  if (!nameInput.value == '' && !friends.includes(nameInput.value) && !nomeRegex.test(nameInput.value)) {
-    friends.push(nameInput.value);
-    listFriends();
+
+  if (!nameInput.value == '' && nomeRegex.test(nameInput.value)) {
+    if (!friends.includes(nameInput.value)) {
+      friends.push(nameInput.value);
+      listFriends();
+
+    } else {
+      erro.innerHTML = 'Amigo já consta na lista.';
+    }
     clearInput();
     clearResult();
   } else {
