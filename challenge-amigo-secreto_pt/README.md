@@ -14,4 +14,4 @@ Esse foi o Challenge da Alura que consiste em desenvolver um scripr JavaScript q
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/viniciogomes92/JS4/tree/main/challenge-amigo-secreto_pt).
 
-Você pode acessar o deploy do projeto clicando [aqui]([https://github.com/viniciogomes92/JS4/tree/main/challenge-amigo-secreto_pt](https://js-amigo-secreto.vercel.app).
+Você pode acessar o deploy do projeto clicando [aqui](https://js-amigo-secreto.vercel.app).
