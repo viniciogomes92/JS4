@@ -1,6 +1,3 @@
-![Template Alura](https://github.com/gui-lirasilva/Edige-POO/blob/master/Template/Thumbnails%20GitHub.png?raw=true)
-
-
 # Resumo do projeto
 Esse foi o Challenge da Alura que consiste em desenvolver um scripr JavaScript que permite o usuário adicionar amigos a uma lista e sortear um deles.
 
@@ -16,3 +13,5 @@ Esse foi o Challenge da Alura que consiste em desenvolver um scripr JavaScript q
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/viniciogomes92/JS4/tree/main/challenge-amigo-secreto_pt).
+
+Você pode acessar o deploy do projeto clicando [aqui]([https://github.com/viniciogomes92/JS4/tree/main/challenge-amigo-secreto_pt](https://js-amigo-secreto.vercel.app).
