@@ -6,8 +6,8 @@ Esse foi o Challenge da Alura que consiste em desenvolver um scripr JavaScript q
 
 ## 🔨 Funcionalidades do projeto
 
-- `Funcionalidade 1` `Criar Lista de Amigos`: É possível incluir quantos amigos quiser para o sorteio do amigo secreto.
-- `Funcionalidade 2` `Validação do Campo Nome`: Utilizando RegExex é feito uma validação para que o usuário não informe nome que contenha números ou apenas insira com o campo em branco.
+- `Criar Lista de Amigos`: É possível incluir quantos amigos quiser para o sorteio do amigo secreto.
+- `Validação do Campo Nome`: Utilizando RegExex é feito uma validação para que o usuário não informe nome que contenha números ou apenas insira com o campo em branco.
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``JavaScript``
@@ -15,4 +15,4 @@ Esse foi o Challenge da Alura que consiste em desenvolver um scripr JavaScript q
 - ``CSS``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui]([(https://github.com/viniciogomes92/JS4/tree/main/challenge-amigo-secreto_pt)]).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/viniciogomes92/JS4/tree/main/challenge-amigo-secreto_pt).
